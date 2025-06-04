@@ -1,6 +1,6 @@
 # Analisador de Nome
 
-Esse é um projetinho em Python que eu fiz pra praticar o que aprendi sobre strings, `if`, `f-string`, contagem de letras e essas paradas básicas. O programa pede pro usuário digitar o nome e, com base nisso, mostra umas informações legais, tipo:
+Esse é um projetinho em Python que eu fiz pra praticar o que aprendi sobre strings, `if`, `f-string`, contagem de letras e essas ações básicas. O programa pede pro usuário digitar o nome e, com base nisso, mostra umas informações legais, tipo:
 
 - Nome ao contrário
 - Se o nome tem espaço ou não
